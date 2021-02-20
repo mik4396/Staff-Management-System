@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  WorkManager.cpp
+  职工管理系统.cpp
+  正在生成代码...
+  职工管理系统.vcxproj -> D:\Program Files (x86)\vs项目\职工管理系统\Debug\职工管理系统.exe

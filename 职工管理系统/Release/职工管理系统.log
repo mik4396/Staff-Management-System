@@ -1,0 +1,21 @@
+﻿  Staff.cpp
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\worker.h(14): error C3646: “displayname”: 未知重写说明符
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\worker.h(14): error C2059: 语法错误:“)”
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\worker.h(14): error C2238: 意外的标记位于“;”之前
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\worker.h(20): error C3646: “w_name”: 未知重写说明符
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\worker.h(20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.h(10): error C2061: 语法错误: 标识符“string”
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.h(16): error C3646: “displayname”: 未知重写说明符
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.h(16): error C2059: 语法错误:“(”
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.h(16): error C2238: 意外的标记位于“;”之前
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.cpp(4): error C2511: “Staff::Staff(int,std::string,int)”:“Staff”中没有找到重载的成员函数
+  d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.h(7): note: 参见“Staff”的声明
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.cpp(5): error C2671: “Staff::{ctor}”: 静态成员函数没有“this”指针
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.cpp(6): error C2671: “Staff::{ctor}”: 静态成员函数没有“this”指针
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.cpp(7): error C2671: “Staff::{ctor}”: 静态成员函数没有“this”指针
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.cpp(13): error C2039: “w_name”: 不是“Staff”的成员
+  d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.h(7): note: 参见“Staff”的声明
+d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.cpp(13): error C2039: “displayname”: 不是“Staff”的成员
+  d:\program files (x86)\vs项目\职工管理系统\职工管理系统\staff.h(7): note: 参见“Staff”的声明
+  WorkManager.cpp
+  职工管理系统.cpp
